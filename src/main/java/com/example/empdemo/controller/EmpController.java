@@ -30,8 +30,6 @@ public class EmpController {
 	
     private static final Logger logger = LoggerFactory.getLogger(EmpController.class);
 
-    
-    
 	
 	@Autowired
 	private EmpService empService;
